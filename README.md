@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergejkembel&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=24292f&locale=de&layout=compact" alt="sergejkembel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergejkembel&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=24282f&locale=de" alt="sergejkembel" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sergejkembel&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=24282f&locale=de" alt="sergejkembel" /></p>
