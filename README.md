@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergejkembel&label=Profile%20views&color=00ffcc&style=flat-square" alt="sergejkembel" /> </p>
 
-- 🔭 I’m currently working on [MC-HOST24](https://mc-host24.de/)
+- 🔭 I’m currently working on: 
+    - [MC-HOST24](https://mc-host24.de/)
+    - [Some private projects 👀](#kekw)
+    - [Google API](https://www.youtube.com/watch?v=d1YBv2mWll0)
 
 - 🌱 I’m currently learning **Frameworks, TypeScript & Go, Networking**
 
