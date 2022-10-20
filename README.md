@@ -4,10 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergejkembel&label=Profile%20views&color=00ffcc&style=flat-square" alt="sergejkembel" /> </p>
 
 - 🔭 I’m currently working on: 
-    - [MC-HOST24](https://mc-host24.de/)
-    - [Some private projects 👀](#kekw)
-    - [Google API](https://www.youtube.com/watch?v=d1YBv2mWll0)
-
+    - [Kembel Consulting](https://kembelconsulting.de/) [(GitHub Profile)](https://github.com/Kembel-Consulting) - My own social recruiting agency for the IT industry
+    
+- 📑 I've worked on this in the past::
+    - [MC-HOST24](https://mc-host24.de/) [(GitHub Profile)](https://github.com/mc-host24) - High performance gameserver hoster 
+    - [Cornelsen eCademy & inside GmbH](https://www.inside-online.de/) [(GitHub Profile)](https://github.com/cornelsen-ecademy) - E-Learning for businesses (My apprenticeship company)
+    - [iostein](https://iostein.net/) [(GitHub Profile)](https://github.com/stein-mc/) - One of the biggest minecraft servers in germany
+    
 - 🌱 I’m currently learning **Frameworks, TypeScript & Go, Networking**
 
 <h3 align="left">Connect with me:</h3>
