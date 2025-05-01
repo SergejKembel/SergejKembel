@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: 
     - [Kembel Consulting](https://kembelconsulting.de/) [(GitHub Profile)](https://github.com/Kembel-Consulting) - Social media marketing Agency for the IT industry
-    - [Endlich Digital (German for "finally digital"](https://endlich-digital.de/) [(GitHub Profile)](https://github.com/endlichdigital) - Digitization and automation of SMEs
+    - [Endlich Digital (German for "finally digital")](https://endlich-digital.de/) [(GitHub Profile)](https://github.com/endlichdigital) - Digitization and automation of SMEs
     - [MC-HOST24](https://mc-host24.de/) [(GitHub Profile)](https://github.com/mc-host24) - High performance gameserver hoster 
     
 - 📑 I've worked on this in the past:
