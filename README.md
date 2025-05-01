@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergejkembel&label=Profile%20views&color=00ffcc&style=flat-square" alt="sergejkembel" /> </p>
 
 - 🔭 I’m currently working on: 
-    - [Kembel Consulting](https://kembelconsulting.de/) [(GitHub Profile)](https://github.com/Kembel-Consulting) - Social media marketing Agency for the IT industry
     - [Endlich Digital (German for "finally digital")](https://endlich-digital.de/) [(GitHub Profile)](https://github.com/endlichdigital) - Digitization and automation of SMEs
+    - [Kembel Consulting](https://kembelconsulting.de/) [(GitHub Profile)](https://github.com/Kembel-Consulting) - Social media marketing Agency for the IT industry
     - [MC-HOST24](https://mc-host24.de/) [(GitHub Profile)](https://github.com/mc-host24) - High performance gameserver hoster 
     
 - 📑 I've worked on this in the past:
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sergej_kembel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergej_kembel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sergej-kembel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergej-kembel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sergejkembel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergej-kembel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
